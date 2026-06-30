@@ -137,7 +137,7 @@ O gráfico possibilita identificar:
 - possíveis assimetrias;
 - frequência das observações.
 
-![Histograma](imagens/histograma_original.png)
+![Histograma](imagens/histograma.png)
 
 *Figura 1 – Histograma da base original.*
 
@@ -196,7 +196,7 @@ Posteriormente foi utilizada a função `autoplot()` para representar a evoluç�
 
 Essa visualização permite identificar tendências, variações e possíveis mudanças no comportamento das temperaturas durante o período analisado.
 
-![Série Temporal](imagens/serie_temporal.png)
+![Série Temporal](imagens/series_temporais.png)
 
 *Figura 3 – Evolução das temperaturas ao longo do tempo.*
 
